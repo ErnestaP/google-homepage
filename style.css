@@ -1,0 +1,54 @@
+
+body{
+
+}
+
+p {
+  font-size: 2em;
+  margin: 0;
+  margin-top: 190px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-bottom-width: 0.5em;
+  background-color : #ffffff;
+}
+.infoInput{
+
+  background-color : #ffffff;
+  box-shadow: 2px 2px 4px #f2f2f2;
+  margin-top:20 px;
+  margin-bottom: 20px;
+  width:580px;
+  font-size:14pt;
+  border-style: inherit 200px;
+}
+.buttons{
+  font-size: 13px;
+  background-color : #F5F5F5;
+  width: 110px;
+  height: 50px;
+  font-family: Arial;
+
+}
+.letters{
+  font-size: 10px;
+  margin-top: 10px;
+}
+.letters1{
+  font-size: 13px;
+  margin-top: 20px;
+  color:#000000;
+}
+a.button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: submit;
+background-color:  #4d94ff;
+
+}
+.down{
+  clear=all;
+  font-size: 13px;
+  color:#000000;
+  background-color: #f2f2f2;
+}
